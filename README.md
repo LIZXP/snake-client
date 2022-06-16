@@ -12,7 +12,7 @@ This project was made by [Peter Li](https://github.com/LIZXP) and was conducted 
 
 ## Final Product
 
-!["Game play image"]()
+!["Game play image"](Capture.PNG)
 
 ## Getting Started
 
