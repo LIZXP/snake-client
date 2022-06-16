@@ -1,9 +1,9 @@
 const net = require("net");
-
+const { IP, PORT } = require("./constants");
 const connect = function () {
   const config = {
-    host: "localhost",
-    port: 50541,
+    host: IP,
+    port: PORT,
   };
 
   const conn = net.createConnection(config);
